@@ -80,3 +80,9 @@ Para melhorar a produtividade durante o desenvolvimento, recomenda-se instalar a
 * O arquivo `insomnia-backend.yaml`, localizado na pasta `backend-gestao-marketplace`, contém a coleção de endpoints que pode ser importada no Insomnia para facilitar os testes da API.
 
 ---
+
+---
+
+### Melhorias em breve
+
+---
